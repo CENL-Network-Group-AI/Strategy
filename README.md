@@ -9,3 +9,4 @@ This section is intended to help libraries to build their own AI roadmap.
 - [Artificial Intelligence:
 what consumers say - Findings and policy recommendations of a multi-country survey on AI](http://www.beuc.eu/publications/beuc-x-2020-078_artificial_intelligence_what_consumers_say_report.pdf?utm_source=POLITICO.EU&utm_campaign=5a7d137f82-EMAIL_CAMPAIGN_2020_09_09_08_59&utm_medium=email&utm_term=0_10959edeb5-5a7d137f82-190598416) (The European Consumer Association, 2020)
 - [Malta AI Strategy Report](https://ec.europa.eu/knowledge4policy/ai-watch/malta-ai-strategy-report_en)
+- [Responsible Operations: Data Science, Machine Learning, and AI in Libraries](https://www.oclc.org/research/publications/2019/oclcresearch-responsible-operations-data-science-machine-learning-ai.html) (OCLC Research, 2019)
