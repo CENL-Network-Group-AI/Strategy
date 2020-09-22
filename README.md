@@ -11,4 +11,4 @@ what consumers say - Findings and policy recommendations of a multi-country surv
 - [Malta AI Strategy Report](https://ec.europa.eu/knowledge4policy/ai-watch/malta-ai-strategy-report_en)
 - [Responsible Operations: Data Science, Machine Learning, and AI in Libraries](https://www.oclc.org/research/publications/2019/oclcresearch-responsible-operations-data-science-machine-learning-ai.html) (OCLC Research, 2019)
 - [Machine Learning + Libraries: A Report on the State of the Field](https://blogs.loc.gov/thesignal/2020/07/machine-learning-libraries-a-report-on-the-state-of-the-field/) (Library of Congress, 2020)
-[Elsevier AI reports](https://www.elsevier.com/research-intelligence/resource-library/ai-report) (2018)
+- [Elsevier AI reports](https://www.elsevier.com/research-intelligence/resource-library/ai-report) (2018)
