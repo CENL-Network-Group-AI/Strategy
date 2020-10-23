@@ -12,4 +12,4 @@ what consumers say - Findings and policy recommendations of a multi-country surv
 - [Responsible Operations: Data Science, Machine Learning, and AI in Libraries](https://www.oclc.org/research/publications/2019/oclcresearch-responsible-operations-data-science-machine-learning-ai.html) (OCLC Research, 2019)
 - [Machine Learning + Libraries: A Report on the State of the Field](https://blogs.loc.gov/thesignal/2020/07/machine-learning-libraries-a-report-on-the-state-of-the-field/) (Library of Congress, 2020)
 - [Elsevier AI reports](https://www.elsevier.com/research-intelligence/resource-library/ai-report) (2018)
-- [Intelligence artificielle: le Parlement ouvre la voie à une première série de règles européennes](https://www.europarl.europa.eu/news/fr/press-room/20201016IPR89544/)
+- [Intelligence artificielle: le Parlement ouvre la voie à une première série de règles européennes](https://www.europarl.europa.eu/news/fr/press-room/20201016IPR89544/) (2020)
