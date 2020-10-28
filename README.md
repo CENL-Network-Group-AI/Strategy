@@ -14,4 +14,4 @@ what consumers say - Findings and policy recommendations of a multi-country surv
 - [Elsevier AI reports](https://www.elsevier.com/research-intelligence/resource-library/ai-report) (2018)
 - [Intelligence artificielle: le Parlement ouvre la voie à une première série de règles européennes](https://www.europarl.europa.eu/news/fr/press-room/20201016IPR89544/) (2020)
 - [EuropeanaTech AI in relation to GLAMs Task Force](https://pro.europeana.eu/post/task-force-publishes-artificial-intelligence-in-glams-survey-results)
-- [Machine Learning at Europeana](https://docs.google.com/document/d/1OW5csoQLRBfsUynHbjGlmEkfbMa9L6n6Zu59LdJZbwE/edit)
+- Machine Learning at Europeana (draft report)
