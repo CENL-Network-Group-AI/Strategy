@@ -3,6 +3,7 @@ This section is intended to help libraries to build their own AI roadmap.
 
 
 ## Guidance
+...
 
 ## Resources
 - [AI Glossary](https://marielebert.wordpress.com/2021/04/16/ai-glossary/)
@@ -18,3 +19,4 @@ what consumers say - Findings and policy recommendations of a multi-country surv
 Commission des affaires juridiques](https://www.europarl.europa.eu/doceo/document/A-9-2020-0176_FR.pdf) (European Commission, 2020)
 - Machine Learning at Europeana (draft report)
 - [Robotics and artificial intelligence technology in Japanese libraries](http://library.ifla.org/2695/1/s08-2019-harada-en.pdf) (IFLA, 2019)
+- [IMLS Investigating the National Need for Library Based Topic Modeling Discovery Systems Project Team](https://innovation.library.nd.edu/crossdisciplinary-research/) (Hesburgh Libraries, University of Notre Dame, 2000)
